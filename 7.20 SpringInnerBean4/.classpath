@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jani Harsh/MyWorkSpace/MyJars/Spring Jar/SpringBasicJar/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
